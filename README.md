@@ -15,7 +15,7 @@ Flask
 pandas
 scikit-learn.
 <p align ="centre">
-<img src  ="data/Scikit_learn_logo_small.svg.png" width = "700" height = "400" alt="logo">
+<img src  ="data/WhatsApp Image 2025-07-31 at 12.00.33_577cb507.jpg" width = "400" height = "400" alt="logo">
 </p>
 
  To Send API Reqest Follow These Steps - 
