@@ -14,6 +14,9 @@ Python 3.7+
 Flask
 pandas
 scikit-learn.
+<p align ="centre">
+<img src  ="data/Screenshot 2025-07-31 104111.png" width = "700" height = "400" alt="logo">
+</p>
 
  To Send API Reqest Follow These Steps - 
  -
