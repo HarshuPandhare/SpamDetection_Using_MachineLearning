@@ -18,6 +18,9 @@ scikit-learn.
  To Send API Reqest Follow These Steps - 
 -
 1.After Running the Code U might see this Interface - 
+<p align ="centre">
+<img src  ="data/Screenshot 2025-07-31 104111.png" alt="logo">
+</p>
 
 ```
 {
