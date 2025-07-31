@@ -14,9 +14,6 @@ Simple and easy to extend
 
 Requirements
 Python 3.7+
-
 Flask
-
 pandas
-
-scikit-learn
+scikit-learn.
