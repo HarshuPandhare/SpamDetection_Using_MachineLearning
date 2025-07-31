@@ -10,7 +10,7 @@ app = Flask(__name__)
 
 # Load dataset (Ensure the file exists at this path)
 try:
-    dataset_path = 'C:\coding\Harsh\Asep 2\emails.csv'  # Update this to the correct location
+    dataset_path = 'C:\emails.csv'  # Update this to the correct location
     dataset = pd.read_csv(dataset_path)
     print("Dataset loaded successfully.")
 except FileNotFoundError:
