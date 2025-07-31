@@ -51,6 +51,6 @@ http://192.168.1.6:8080/predict
 ```
 6.On Testing On POSTMAN you can see the result - 
 <p align ="centre">
-<img src  ="data/Screenshot 2025-07-31 104111.png" width = "700" height = "400" alt="logo">
+<img src  ="data/Screenshot 2025-07-31 115018.png" width = "700" height = "400" alt="logo">
 </p>
 
